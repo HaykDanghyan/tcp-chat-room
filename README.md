@@ -29,7 +29,7 @@ To run this project on your local machine, follow these steps:
 1. Clone the repository:
 
 ```bash
-$ git clone https://github.com/your-username/tcp-chat-room.git
+$ git clone https://github.com/HaykDanghyan/tcp-chat-room.git
 ```
 2. Change into the project directory:
 
